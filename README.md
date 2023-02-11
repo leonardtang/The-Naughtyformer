@@ -22,6 +22,7 @@ non-joke.
 The cleaned and post-processed data is found in `cleaned_data.csv`. The original Reddit is found in `raw_data/`.
 
 ## Model Checkpoint
+Our DeBERTa checkpoint for the _Naughtyformer_ is found in `naughtyformer-deberta-checkpoint`.
 
 ## Citation
 If you find this useful in your research, please consider citing:
